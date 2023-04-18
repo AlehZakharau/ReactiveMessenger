@@ -12,6 +12,7 @@
 /[Pp]rojectSettings/
 /[Pp]ackages/
 /[Uu]serSettings/
+/[Aa]ssets/Senes/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
