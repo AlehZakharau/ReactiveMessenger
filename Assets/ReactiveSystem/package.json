@@ -5,6 +5,8 @@
     "description": "messages event bus system",
     "unity": "2021.3",
     "unityRelease": "15f1",
+    "documentationUrl": "https://github.com/AlehZakharau/ReactiveMessenger",
+    "licensesUrl": "https://github.com/AlehZakharau/ReactiveMessenger/blob/main/LICENSE",
     "author": {
         "name": "AlehZakharau",
         "email": "alehzaharau@tutanota.com",
@@ -17,5 +19,23 @@
     },
     "publishConfig": {
         "registry": "https://npm.pkg.github.com/@alehzakharau"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Interactive example",
+            "description": "An example for fun",
+            "path": "Samples~/Interactiveexample"
+        },
+        {
+            "displayName": "Power test",
+            "description": "for the performance test in the runtime",
+            "path": "Samples~/PowerTest"
+        },
+        {
+            "displayName": "Simple example",
+            "description": "Contains simple example to learn the package",
+            "path": "Samples~/SimpleExample"
+        }
+    ]
+    
 }
