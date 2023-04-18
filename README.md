@@ -2,4 +2,4 @@
 reactive messenger, event bus 
 
 
-https://github.com/AlehZakharau/ReactiveMessenger.git?path=/ReactiveSystem
+https://github.com/AlehZakharau/ReactiveMessenger.git?path=/Assets/ReactiveSystem
