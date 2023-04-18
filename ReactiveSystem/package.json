@@ -1,0 +1,21 @@
+{
+    "name": "com.zakharau.reactivesystem",
+    "version": "1.0.0",
+    "displayName": "ReactiveSystem",
+    "description": "messages event bus system",
+    "unity": "2021.3",
+    "unityRelease": "15f1",
+    "author": {
+        "name": "AlehZakharau",
+        "email": "alehzaharau@tutanota.com",
+        "url": "https://github.com/AlehZakharau/ReactiveMessenger#readme"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlehZakharau/ReactiveMessenger.git",
+        "directory": "com.zakharau.reactivesystem"
+    },
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@zakharau"
+    }
+}
