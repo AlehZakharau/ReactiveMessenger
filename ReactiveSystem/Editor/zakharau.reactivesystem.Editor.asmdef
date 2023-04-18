@@ -1,8 +1,10 @@
 {
-    "name": "zakharau.reactivesystem.",
+    "name": "alehzakharau.reactivesystem.Editor",
     "references": [],
     "optionalUnityReferences": [],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

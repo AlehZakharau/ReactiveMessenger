@@ -1,5 +1,5 @@
 {
-    "name": "com.zakharau.reactivesystem",
+    "name": "com.alehzakharau.reactivesystem",
     "version": "1.0.0",
     "displayName": "ReactiveSystem",
     "description": "messages event bus system",
@@ -13,9 +13,9 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/AlehZakharau/ReactiveMessenger.git",
-        "directory": "com.zakharau.reactivesystem"
+        "directory": "com.alehzakharau.reactivesystem"
     },
     "publishConfig": {
-        "registry": "https://npm.pkg.github.com/@zakharau"
+        "registry": "https://npm.pkg.github.com/@alehzakharau"
     }
 }
