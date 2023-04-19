@@ -1,4 +1,4 @@
-# ReactiveMessenger
+# Reactive Messenger
 *<sub>reactive messenger, event bus, observer pattern</sub>*
 
 This is a simple library that helps you send data between modules that you want to keep independent. The library also includes a logger to help you debug signals. 
